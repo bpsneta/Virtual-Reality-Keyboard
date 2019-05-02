@@ -1,5 +1,5 @@
-# Virtual-Reality-Keyboard
-My Final Year Project 
+# Augmented-Reality-Keyboard
+My Final Year Project
 
 A simple virtual keyboard created using OpenCV and Python which has 26 alphabets and a space bar.
 
